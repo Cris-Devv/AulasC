@@ -1,0 +1,5 @@
+- crud
+- validação
+- interface
+- modulação
+- fazer c aceitar acento (utf?)
