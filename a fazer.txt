@@ -1,5 +1,7 @@
 - crud
 - validação
-- interface
+- interface gráfica (nativa c ou html?)
 - modulação
 - fazer c aceitar acento (utf?)
+- documentação
+- banco de dados
