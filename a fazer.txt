@@ -5,3 +5,6 @@
 - fazer c aceitar acento (utf?)
 - documentação
 - banco de dados
+
+Segunda a quarta trabalhar e acompanhar o projeto
+Organizar ideias no sabado
