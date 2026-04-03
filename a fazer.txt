@@ -1,0 +1,11 @@
+- crud
+- validação
+- interface gráfica (nativa c ou html?)
+- modulação
+- fazer c aceitar acento (utf?)
+- documentação
+- banco de dados
+
+Segunda a quarta trabalhar e acompanhar o projeto
+Organizar ideias no sabado
+Como funciona sistema de multas
