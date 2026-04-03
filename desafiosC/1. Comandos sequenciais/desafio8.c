@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <windows.h>
 
+// Algoritmo para calcular um salário unido a uma comissão sobre vendas
 int main(){
 
     SetConsoleOutputCP(CP_UTF8);
 
-    const float salario;
+    float salario;
     float vendas;
     printf("Digite o valor do seu salário mensal: ");
     scanf("%f", &salario);
